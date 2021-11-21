@@ -10,5 +10,9 @@
 - [Signaworks](https://signaworks.com) - Signaworks offers Great Prices and Inventory on a full range of industrial signal products including andon lights, LED tower lights, stack lights.
 - [Ato](https://ato.com) - ATO.com is your one-stop online shop to buy industrial automation equipment/electronics/components from Chinese manufacturers directly.
 - [CCIPower](https://ccipower.com) - Control Concepts Manufactures SCR Power Controllers and Custom OEM designs for industrial and commercial applications.
-- [McMaster](https://mcmaster.com) - McMaster-Carr is the complete source for your plant with over 700000 products. 98% of products ordered ship from stock and deliver same or next day.
 - [Jameco](https://jameco.com) - Jameco Electronics carries thousands of electronic components including power, semiconductors and test equipment. Paypal accepted.
+
+
+## MRO Suppliers
+- [McMaster](https://mcmaster.com) - McMaster-Carr is the complete source for your plant with over 700000 products. 98% of products ordered ship from stock and deliver same or next day.
+- [FixtureWorks](https://www.fixtureworks.net) - Featured Products & Innovations · 5-Axis Pull Clamp System · Clamping Locators · Pneumatic Clamping Locators · Quick Action Sliding Locks.
