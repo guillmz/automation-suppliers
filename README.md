@@ -1,6 +1,6 @@
 # Automation Suppliers
 
-- https://automationdirect.com
+- [AutomationDirect](https://automationdirect.com)Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery on orders $49+.
 - https://automation24.com
 - https://c3controls.com
 - https://factorymation.com
