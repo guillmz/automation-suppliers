@@ -1,9 +1,9 @@
 # Automation Suppliers
 
 - [AutomationDirect](https://automationdirect.com) - Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery on orders $49+.
-- https://automation24.com
-- https://c3controls.com
-- https://factorymation.com
+- [Automation24](https://automation24.com) - Low-priced automation technology at Automation24. Order products from top brands like ifm, Siemens, Eaton, microsonic & Phoenix online - fast delivery!
+- [C3Controls](https://c3controls.com) - We design and manufacture standard industrial control products that meet global industry specifications for quality & performance.
+- [Factorymation](https://factorymation.com) - Industrial automation equipment and controllers at the industry's best prices.
 - https://wolfautomation.com
 - https://ato.com
 - https://ezautomation.com
