@@ -1,4 +1,4 @@
-# Automation Suppliers
+## Automation Suppliers
 
 - [AutomationDirect](https://automationdirect.com) - Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery on orders $49+.
 - [Automation24](https://automation24.com) - Low-priced automation technology at Automation24. Order products from top brands like ifm, Siemens, Eaton, microsonic & Phoenix online - fast delivery!
