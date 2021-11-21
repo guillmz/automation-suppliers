@@ -17,4 +17,4 @@
 - [McMaster](https://mcmaster.com) - McMaster-Carr is the complete source for your plant with over 700000 products. 98% of products ordered ship from stock and deliver same or next day.
 - [FixtureWorks](https://www.fixtureworks.net) - Featured Products & Innovations · 5-Axis Pull Clamp System · Clamping Locators · Pneumatic Clamping Locators · Quick Action Sliding Locks.
 - [MROSupply](https://mrosupply.com) - Distributor Of Industrial, , Conveyor, Electrical Products & A+ Customer Satisfaction. Distributor Of Industrial, Mechanical, Conveyor, Electrical & Many Other Products. Live chat. Trusted Supplier. Free shipping. Same Day Quotes. 100% Safe Shopping.
-- [vbelts4less](https://vbelts4less.com) - V Belts 4 Less - Trusted V Belt Distributor in the USA - Huge Inventory & Fast Shipping - Industrial, Cogged, Banded, HVAC, Kevlar, Lawn Garden.
+- [Vbelts4less](https://vbelts4less.com) - V Belts 4 Less - Trusted V Belt Distributor in the USA - Huge Inventory & Fast Shipping - Industrial, Cogged, Banded, HVAC, Kevlar, Lawn Garden.
